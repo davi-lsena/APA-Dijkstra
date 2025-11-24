@@ -8,13 +8,13 @@ O código atual implementa a leitura de capitais brasileiras e suas fronteiras, 
 
 ## Objetivo do Trabalho
 
-- Implementar o **Algoritmo de Dijkstra clássico**.  
-- Comparar com outras variantes e algoritmos (a definir conforme tema sorteado):  
+1. Implementar o **Algoritmo de Dijkstra clássico**.  
+2. Comparar com outras variantes e algoritmos (a definir conforme tema sorteado):  
   - Dijkstra com heap  
   - Bellman-Ford  
   - A* (A estrela)  
-- Aplicar em problemas reais de rotas urbanas e redes de backbone em telecomunicações.  
-- Explorar implementações paralelas (memória compartilhada ou GPU), se pertinente ao tema sorteado.
+  - Aplicar em problemas reais de rotas urbanas e redes de backbone em telecomunicações.  
+  - Explorar implementações paralelas (memória compartilhada ou GPU), se pertinente ao tema sorteado.
 
 ## Estrutura do Projeto
 
