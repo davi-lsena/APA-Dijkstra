@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1763918673 source:c:\users\senag\onedrive\documentos\apa\bodybuilder\apa - dijkstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+
